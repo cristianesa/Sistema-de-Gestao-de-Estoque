@@ -1,0 +1,14 @@
+program contEstoque;
+
+uses
+  Vcl.Forms,
+  controleDeEstoque in 'controleDeEstoque.pas' {frmInicial};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmInicial, frmInicial);
+  Application.Run;
+end.

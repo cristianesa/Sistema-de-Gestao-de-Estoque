@@ -1,0 +1,14 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 283
+  Width = 349
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=dbcontroleestoque'
+      'User_Name=root'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 120
+    Top = 80
+  end
+end

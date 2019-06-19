@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/03 10:03:31.000.332,=C:\Users\Cristiane\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/03 10:06:44.000.008,C:\Users\Cristiane\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Cristiane\Documents\RAD\cadClientes\controleDeEstoque.pas</Transaction>
+    <Transaction>2019/05/03 10:06:44.000.008,C:\Users\Cristiane\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Cristiane\Documents\RAD\cadClientes\controleDeEstoque.dfm</Transaction>
+    <Transaction>2019/05/03 10:08:00.000.856,C:\Users\Cristiane\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Cristiane\Documents\RAD\cadClientes\contEstoque.dproj</Transaction>
+    <Transaction>2019/05/03 10:39:54.000.101,=C:\Users\Cristiane\Documents\RAD\cadClientes\Unit1.pas</Transaction>
+    <Transaction>2019/05/03 10:57:00.000.114,C:\Users\Cristiane\Documents\RAD\cadClientes\Unit1.pas=C:\Users\Cristiane\Documents\RAD\cadClientes\UdmPrincipal.pas</Transaction>
+    <Transaction>2019/05/03 10:57:00.000.114,C:\Users\Cristiane\Documents\RAD\cadClientes\Unit1.dfm=C:\Users\Cristiane\Documents\RAD\cadClientes\UdmPrincipal.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
